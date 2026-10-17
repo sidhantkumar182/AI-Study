@@ -18,7 +18,7 @@
 
 - **Application:** http://studyai-env.eba-t79zgdqp.ap-south-1.elasticbeanstalk.com/
 - **Health Check:** http://studyai-env.eba-t79zgdqp.ap-south-1.elasticbeanstalk.com/health
-- **Repository:** https://github.com/kapilyadav008/Study-AI
+- **Repository:** https://github.com/sidhantkumar182/AI-Study
 
 ---
 
